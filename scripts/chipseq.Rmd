@@ -1,0 +1,9 @@
+library(tidyverse)
+library(ChIPQC)
+library(ChIPseeker)
+library(DiffBind)
+library(clusterProfiler)
+library(AnnotationDbi)
+library(TxDb.Hsapiens.UCSC.hg19.knownGene)
+library(EnsDb.Hsapiens.v75)
+
