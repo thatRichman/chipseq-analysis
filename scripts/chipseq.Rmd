@@ -1,3 +1,5 @@
+
+```{r setup}
 library(tidyverse)
 library(ChIPQC)
 library(ChIPseeker)
@@ -6,4 +8,8 @@ library(clusterProfiler)
 library(AnnotationDbi)
 library(TxDb.Hsapiens.UCSC.hg19.knownGene)
 library(EnsDb.Hsapiens.v75)
+```
 
+```{r}
+
+```

@@ -2,3 +2,15 @@
 **/**.fastq
 **/**.html
 **/**.zip
+**/.**log
+**/**.bam
+**/**.tab
+**/**.out
+**/**.sam
+**/**.gz
+**/**.nextflow
+**/**.nextflow**
+**/grch38/**
+**/**.bed
+**/**.xls
+**/**.narrowPeak
