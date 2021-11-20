@@ -47,3 +47,5 @@ workflow {
     trimGalore(fastq_ch)
     alignSTAR(trimGalore.out.trimmed_fastq)
 }
+
+
